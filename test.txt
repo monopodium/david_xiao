@@ -1,0 +1,28 @@
+#有一个系统
+/home/msms/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/bin/remote-cli
+:/home/msms/.local/bin
+:/usr/local/sbin
+:/usr/local/bin
+:/usr/sbin
+:/usr/bin
+:/sbin
+:/bin:
+/usr/games:
+/usr/local/games
+:/usr/lib/wsl/lib
+:/mnt/c/WINDOWS/system32
+:/mnt/c/WINDOWS
+:/mnt/c/WINDOWS/System32/Wbem
+:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:
+/mnt/c/WINDOWS/System32/OpenSSH/
+:/mnt/c/Program Files/Git/cmd
+:/mnt/d/PortableSoftware/ffmpeg/bin:/mnt/d/PortableSoftware/mingw64/bin
+:/mnt/d/PortableSoftware/scrcpy-win64-v1.17
+:/mnt/c/Users/ms/AppData/Local/Programs/Python/Python39/Scripts/
+:/mnt/c/Users/ms/AppData/Local/Programs/Python/Python39/
+:/mnt/c/Users/ms/AppData/Local/Microsoft/WindowsApps
+:/mnt/c/Users/ms/AppData/Local/Programs/Microsoft VS Code/bin
+:/snap/bin
+:/usr/local/go/bin:
+/usr/local/go/bin
+
