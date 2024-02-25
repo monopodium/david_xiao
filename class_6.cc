@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
- // 局部变量声明
+
  int a = 20;
 
  // do 循环执行
